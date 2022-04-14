@@ -1,0 +1,6 @@
+﻿  5x5Main.cpp
+  FifteenPuzzle.cpp
+C:\Users\임승준\source\repos\Week4_Homework2\Week4_Homework2\FifteenPuzzle.cpp(24,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ranking.cpp
+  코드를 생성하고 있습니다...
+  Week4_Homework2.vcxproj -> C:\Users\임승준\source\repos\Week4_Homework2\Debug\Week4_Homework2.exe
