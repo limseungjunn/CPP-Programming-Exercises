@@ -1,0 +1,129 @@
+﻿  MonsterWorldGame.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\excpt.h(17,1): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\excpt.h(17,1): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdarg.h(16,1): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdarg.h(16,1): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\windef.h(17,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\windef.h(17,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(6455,9): warning C4164: '__int2c': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(6666,9): warning C4164: '_bittestandcomplement': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(6667,9): warning C4164: '_bittestandset': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(6668,9): warning C4164: '_bittestandreset': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(6670,9): warning C4164: '_interlockedbittestandreset': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7321,9): warning C4164: '__incfsbyte': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7322,9): warning C4164: '__addfsbyte': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7323,9): warning C4164: '__incfsword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7324,9): warning C4164: '__addfsword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7325,9): warning C4164: '__incfsdword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7326,9): warning C4164: '__addfsdword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7349,9): warning C4164: '__cpuidex': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7392,9): warning C4164: '__readfsbyte': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7393,9): warning C4164: '__readfsword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7394,9): warning C4164: '__readfsdword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7395,9): warning C4164: '__writefsbyte': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7396,9): warning C4164: '__writefsword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7397,9): warning C4164: '__writefsdword': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7464,9): warning C4164: '_mm_prefetch': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7492,9): warning C4164: '__readpmc': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(7505,9): warning C4164: '__rdtsc': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(20169,9): warning C4164: '__fastfail': 내장 함수를 선언하지 않았습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(30,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(30,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\apiquery2.h(28,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\apiquery2.h(28,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processenv.h(23,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processenv.h(23,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapifromapp.h(23,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapifromapp.h(23,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\debugapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\debugapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\utilapiset.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\utilapiset.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\handleapi.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\handleapi.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\errhandlingapi.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\errhandlingapi.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fibersapi.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fibersapi.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\namedpipeapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\namedpipeapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\profileapi.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\profileapi.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\heapapi.h(28,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\heapapi.h(28,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ioapiset.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ioapiset.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\synchapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\synchapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\interlockedapi.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\interlockedapi.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\sysinfoapi.h(41,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\sysinfoapi.h(41,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\memoryapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\memoryapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\enclaveapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\enclaveapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\threadpoollegacyapiset.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\threadpoollegacyapiset.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\threadpoolapiset.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\threadpoolapiset.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\jobapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\jobapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\jobapi2.h(19,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\jobapi2.h(19,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wow64apiset.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wow64apiset.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\libloaderapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\libloaderapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\securitybaseapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\securitybaseapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\namespaceapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\namespaceapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\systemtopologyapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\systemtopologyapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processtopologyapi.h(22,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processtopologyapi.h(22,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\securityappcontainer.h(27,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\securityappcontainer.h(27,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\realtimeapiset.h(21,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\realtimeapiset.h(21,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(73,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(73,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9535,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9535,14): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(52,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(52,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(44,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(44,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnls.h(24,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnls.h(24,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincon.h(30,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincon.h(30,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\verrsrc.h(133,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\verrsrc.h(133,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winver.h(23,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winver.h(23,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winreg.h(32,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winreg.h(32,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnetwk.h(33,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnetwk.h(33,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dde.h(27,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dde.h(27,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ddeml.h(26,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ddeml.h(26,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(266,13): error C3646: 'bRed': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(266,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(267,13): error C3646: 'bGreen': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(267,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(268,13): error C3646: 'bBlue': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(268,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(269,13): error C3646: 'bExtra': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dlgs.h(269,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\lzexpand.h(26,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\lzexpand.h(26,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mmsyscom.h(29,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mmsyscom.h(29,8): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
