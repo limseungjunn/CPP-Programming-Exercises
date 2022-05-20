@@ -1,0 +1,4 @@
+﻿  HangmanGame.cpp
+C:\Users\임승준\Desktop\임승준\대학교\4학년\전자응용설계\실습문제해답\실습06장_3번\HangmanGame.cpp(9,20): error C2664: 'void MyDic::load(char *)': 인수 1을(를) 'const char [8]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\임승준\Desktop\임승준\대학교\4학년\전자응용설계\실습문제해답\실습06장_3번\HangmanGame.cpp(9,11): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\임승준\Desktop\임승준\대학교\4학년\전자응용설계\실습문제해답\실습06장_3번\MyDic.h(25,7): message : 'MyDic::load' 선언을 참조하십시오.
